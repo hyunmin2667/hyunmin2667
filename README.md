@@ -1,3 +1,12 @@
+
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=LEE%20HYEON%20MIN&fontSize=90&animation=fadeIn)
+
+
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=100&fontSize=50)
+
+
 <div align="center">
 
 # Serivce
@@ -27,3 +36,8 @@
 # Study
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyunmin2667&repo=ssafy10-algorithm-study-to-gold&theme=midnight-purple)](https://github.com/hyunmin2667/ssafy10-algorithm-study-to-gold)
+
+
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
