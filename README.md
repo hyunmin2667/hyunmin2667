@@ -21,6 +21,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunmin266&theme=dark)](https://solved.ac/hyunmin266/)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyunmin266&theme=dark)](https://solved.ac/hyunmin266/)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunmin2667&theme=dark)](https://solved.ac/hyunmin266/)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyunmin2667&theme=dark)](https://solved.ac/hyunmin266/)
+
 <br>
 
 # Github
